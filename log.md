@@ -25,3 +25,8 @@ And also about generators. I struggled to understand certain concepts in Variabl
 but I believe this will improve as I practice and make more mistakes.
 **Link to work:** [FUNCTIONS](https://github.com/felkof/PythonAI/blob/master/IntroPython.py)
 
+###Day 2: October 28, 2019 (Setup & Error Handling)
+####(Anaconda, GitBash, Inputs etc)
+**Today's Progress:** Setup my Python environment - Anaconda, GitBash, etc
+Start some work on inputs, eval and error handling
+**Link to work:** [INPUT](https://github.com/felkof/PythonAI/blob/master/first_script.py)
